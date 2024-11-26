@@ -147,8 +147,8 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/IMG-20241121-WA0001(1).jpg"
-footer-img: "/assets/img/wp6472741.jpg"
+navbar-img: "/assets/img/Space_Dark_Purple_Blurry.png"
+footer-img: "/assets/img/Space_Dark_Purple_Blurry.png"
 page-img: "/assets/img/Space_Dark_Purple_Blurry.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
